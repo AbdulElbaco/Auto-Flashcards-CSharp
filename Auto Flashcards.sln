@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auto_Flashcards", "Auto_Flashcards.csproj", "{70F4985A-1952-432B-9AF7-79EBD7713FED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business_Logic", "..\Business_Logic\Business_Logic.csproj", "{D3D7FBE3-BBA5-4E38-9807-062D17DC9E27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70F4985A-1952-432B-9AF7-79EBD7713FED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70F4985A-1952-432B-9AF7-79EBD7713FED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70F4985A-1952-432B-9AF7-79EBD7713FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70F4985A-1952-432B-9AF7-79EBD7713FED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3D7FBE3-BBA5-4E38-9807-062D17DC9E27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D7FBE3-BBA5-4E38-9807-062D17DC9E27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D7FBE3-BBA5-4E38-9807-062D17DC9E27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D7FBE3-BBA5-4E38-9807-062D17DC9E27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
